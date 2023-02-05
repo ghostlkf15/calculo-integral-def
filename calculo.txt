@@ -1,0 +1,39 @@
+Área entre curvas: es un concepto que se refiere a la superficie que queda entre dos curvas 
+en un plano cartesiano. Se puede calcular utilizando integrales definidas y restando la integral 
+de la curva superior menos la integral de la curva inferior en el intervalo deseado. Este concepto 
+es útil en muchas aplicaciones prácticas, como en la resolución de problemas de ingeniería y física. 
+
+Solidos de revolución: son objetos tridimensionales generados a partir de la rotación de una curva alrededor 
+de un eje. La curva se conoce como la curva generatriz y el eje se conoce como el eje de revolución. Al girar 
+la curva alrededor del eje, se forma un sólido que puede tener una variedad de formas, como un cilindro, un 
+cono o una esfera. El área superficial y el volumen de estos sólidos pueden ser calculados utilizando integrales definidas.
+
+Longitud de arco: es un concepto que describe la distancia a lo largo de una curva en un plano cartesiano. La longitud 
+de arco es útil en muchas aplicaciones, como en la resolución de problemas de ingeniería y física, donde se requiere 
+calcular la distancia a lo largo de una curva en lugar de la distancia recta entre dos puntos. La longitud de arco se 
+puede calcular utilizando integrales definidas y la ecuación paramétrica de la curva. La integral se realiza sobre el 
+intervalo de la curva que se desea medir y representa la distancia total a lo largo de la curva en ese intervalo.
+
+Teorema del valor medio: es un teorema que establece una relación entre una función continua y su integral. El teorema 
+afirma que si una función continua en un intervalo cerrado [a, b], entonces existe un punto c en el intervalo tal que 
+la integral de la función en el intervalo [a, b] es igual al producto de la función en ese punto c y el intervalo [a, b]. 
+Este teorema es una herramienta importante en el análisis matemático y en muchas aplicaciones prácticas, como la resolución 
+de problemas de optimización.
+
+Las integrales tienen muchas aplicaciones en diferentes áreas de las matemáticas, la física, la ingeniería y otros campos. 
+Algunas de las aplicaciones incluyen:
+
+- Cálculo de áreas y volúmenes: Las integrales se utilizan para calcular el área bajo una curva y el volumen de sólidos de revolución.
+
+- Análisis de funciones: Las integrales permiten estudiar las propiedades de las funciones, como la continuidad y la diferenciabilidad.
+
+- Física: Las integrales se utilizan en muchos aspectos de la física, como el cálculo de trayectorias, la resolución de problemas 
+de estática y dinámica, y la descripción de fenómenos como la electricidad y el magnetismo.
+
+- Ingeniería: Las integrales son una herramienta importante en la ingeniería, especialmente en la resolución de problemas relacionados 
+con la mecánica, la eléctrica y la termodinámica.
+
+- Economía: Las integrales se utilizan en la economía para modelar y analizar la producción y el consumo de bienes y servicios, 
+así como para resolver problemas relacionados con la maximización de la ganancia y la minimización de los costos.
+
+Estas son solo algunas de las muchas aplicaciones de las integrales en diferentes campos.
